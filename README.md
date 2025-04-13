@@ -177,7 +177,7 @@
 ## 12. Anexo: LOG de Desenvolvimento
 
 Para acompanhar todo o histórico de desenvolvimento, ajustes e decisões tomadas ao longo do projeto, acesse o LOG de Desenvolvimento disponível no link abaixo:
-[🔗 Acessar LOG de Desenvolvimento]()
+[🔗 Acessar LOG de Desenvolvimento](./log-desenvolvimento.md)
 
 Última Atualização: 10/04/2025
 
