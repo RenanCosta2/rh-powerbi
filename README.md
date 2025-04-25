@@ -4,10 +4,15 @@
 ## 1. Informações Gerais do Projeto
 
 **Nome do Projeto:** Análise de dados de RH
+
 **Responsável:** Renan Costa  
+
 **Data de Início:** 03/04/2025
+
 **Data de Conclusão:** 10/04/2025
+
 **Versão Atual:** 1.0  
+
 **Setor/Departamento:** Recursos Humanos (RH)  
 
 ---
