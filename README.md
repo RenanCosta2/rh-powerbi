@@ -32,7 +32,7 @@
 
 ## 3. Objetivo do Projeto
 
-**Resumo:** O projeto desenvolvido no Power BI tem como objetivo oferecer uma visão estratégica do setor de Recursos Humanos da empresa, facilitando a análise e o acompanhamento de informações relevantes sobre os colaboradores. O Dashboard permite responder perguntas-chave de negócio, como o total de funcionários, tempo médio de experiência, distribuição por gênero e função, média salarial, disponibilidade para hora extra e níveis de envolvimento no trabalho.
+**Resumo:** Dashboard em Power BI focado em oferecer uma visão estratégica do setor de Recursos Humanos da empresa, facilitando a análise e o acompanhamento de informações relevantes sobre os colaboradores.
 
 ---
 
